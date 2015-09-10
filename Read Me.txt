@@ -1,0 +1,2 @@
+Twitter mining developed using python and its libraries is a part of social media anlaytics
+that media that mines through social data from twitter platform for business intelligence.
